@@ -38,7 +38,7 @@ clean_env_v1/
 
 ## Testing the App
 
-We've included three sample PDF documents that you can use to test the app's capabilities:
+I've included three sample PDF documents that you can use to test the app's capabilities:
 
 - `[SAMPLE] Blind Children's Vocational Discovery and Development Program.pdf`
 - `[SAMPLE] Commercial_Insurance_Claim_Document.pdf`
